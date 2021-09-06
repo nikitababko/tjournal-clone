@@ -6,29 +6,29 @@ import styles from './SideComments.module.scss';
 const items = [
   {
     user: {
-      fullname: 'Вася Пупкин',
+      fullname: 'Nikita Babko',
     },
-    text: 'Теперь, каждое рабочее утро, после кровати, я перекладываюсь туда спать ещё на часок. Ну и…',
+    text: 'Now, every working morning, after bed, I go there to sleep for another hour. Well…',
     post: {
-      title: 'Какая у вас дома ванна?',
+      title: 'What kind of bath do you have at home?',
     },
   },
   {
     user: {
-      fullname: 'Вася Пупкин',
+      fullname: 'Nikita Babko',
     },
-    text: 'Теперь, каждое рабочее утро, после кровати, я перекладываюсь туда спать ещё на часок. Ну и…',
+    text: 'Now, every working morning, after bed, I go there to sleep for another hour. Well…',
     post: {
-      title: 'Какая у вас дома ванна?',
+      title: 'What kind of bath do you have at home?',
     },
   },
   {
     user: {
-      fullname: 'Вася Пупкин',
+      fullname: 'Nikita Babko',
     },
-    text: 'Теперь, каждое рабочее утро, после кровати, я перекладываюсь туда спать ещё на часок. Ну и…',
+    text: 'Now, every working morning, after bed, I go there to sleep for another hour. Well…',
     post: {
-      title: 'Какая у вас дома ванна?',
+      title: 'What kind of bath do you have at home?',
     },
   },
 ];
