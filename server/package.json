@@ -1,8 +1,11 @@
 {
   "name": "server",
+  "author": {
+    "name": "Nikita Babko",
+    "email": "niki.babko@gmail.com"
+  },
   "version": "0.0.1",
   "description": "",
-  "author": "",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
@@ -23,6 +26,7 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/mapped-types": "*",
     "@nestjs/platform-express": "^8.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
